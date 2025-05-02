@@ -77,3 +77,7 @@ Créditos
 Desenvolvedor: @jottap_62
 
 Projeto: Wolf-edit
+
+![17461990104688417068540111893197](https://github.com/user-attachments/assets/7b290f48-b982-47b5-9cea-194e2dd022b1)
+
+
